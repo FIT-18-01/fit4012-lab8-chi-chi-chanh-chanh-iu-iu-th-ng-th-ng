@@ -15,8 +15,8 @@ Lab 8 kế thừa cách tổ chức repo của Lab 6 socket starter, nhưng thay
 
 ## Team members
 
-- **Thành viên 1**: Nguyễn Anh Đức - MSSV: 1871020148
-- **Thành viên 2**: Lưu Phương Thảo - MSSV: 1871020681
+- **Thành viên 1**: Nguyễn Anh Đức - MSSV: 1871020148.
+- **Thành viên 2**: Lưu Phương Thảo - MSSV: 1871020681.
 
 ## Task division
 
@@ -26,9 +26,9 @@ Lab 8 kế thừa cách tổ chức repo của Lab 6 socket starter, nhưng thay
 
 ## Demo roles
 
-- **Demo Sender / mã hóa / log gửi**: Chi Chi
-- **Demo Receiver / giải mã / kiểm tra hash**: Chanh Chanh
-- **Cả hai cùng trả lời câu hỏi mở rộng AES và chữ ký số**: Chi Chi và Chanh Chanh
+- **Demo Sender / mã hóa / log gửi**: Nguyễn Anh Đức
+- **Demo Receiver / giải mã / kiểm tra hash**: Lưu Phương Thảo
+- **Cả hai cùng trả lời câu hỏi mở rộng AES và chữ ký số**: Anh Đức và Phương Thảo
 
 ---
 
